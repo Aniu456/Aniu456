@@ -26,7 +26,7 @@
 - **Flutter**
 - Widget 架构
 - Platform Channel
-- iOS / Android 原生能力补齐
+- iOS 原生能力补齐
 
 > 核心跨端能力，追求「一次设计，多端一致」
 
