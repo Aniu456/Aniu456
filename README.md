@@ -6,7 +6,7 @@
 ### 📱 **Flutter**
 ---
 
-### ☁️ Cloud Native + Go —
+### ☁️ Cloud Native + Go 
 ---
 
 ## 🛠️ 技术栈速览
